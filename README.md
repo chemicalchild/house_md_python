@@ -1,7 +1,7 @@
 # house_md_python
 data analysis with python
-I started thsi project to practice some of the skills i have learnt on datacamp.
-The two dataset wa gotten from kaggle 
+I started this project to practice some of the skills i have learnt on datacamp.
+The two dataset were gotten from kaggle 
 first, the csv files were loaded and joined together 
 the new aggregated file was checked for null values and the columns of interest were selected and the dataframe was described for a summary 
 then distinct writers were selested to see how mnay times they wrote in the entire series and who the best writers were.
